@@ -1,4 +1,4 @@
-//Linpei Duan, 260835863
+
 .global _start
 _start:
 	MOV R0, #1 //xi
