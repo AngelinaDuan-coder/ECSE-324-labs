@@ -1,7 +1,7 @@
 .equ PIXEL_BUFF, 0xC8000000
 .equ CHAR_BUFF, 0xC9000000 
 .global _start
-//Linpei Duan, 260835863
+
 _start:
         bl      draw_test_screen
 end:
