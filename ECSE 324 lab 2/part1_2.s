@@ -1,4 +1,4 @@
-//Linpei Duan, 260835863
+
 .global _start
 .equ hex_displays_1, 0xFF200020//drives digits HEX3 to HEX0
 .equ hex_displays_2, 0xFF200030//drives digits HEX5 and HEX4
