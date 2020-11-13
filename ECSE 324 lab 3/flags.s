@@ -2,7 +2,7 @@
 .equ CHAR_BUFF, 0xC9000000 
 .equ PS2_DATA, 0xFF200100
 .global _start
-//Linpei Duan, 260835863
+
 _start:
         bl      input_loop
 end:
