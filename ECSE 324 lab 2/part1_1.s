@@ -1,4 +1,4 @@
-//Linpei Duan, 260835863
+
 .global _start
 .equ LED_MEMORY, 0xFF200000
 .equ SW_MEMORY, 0xFF200040
