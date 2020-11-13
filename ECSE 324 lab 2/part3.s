@@ -1,4 +1,4 @@
-//Linpei Duan, 260835863
+
 .section .vectors, "ax"
 B _start
 B SERVICE_UND       // undefined instruction vector
