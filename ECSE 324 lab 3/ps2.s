@@ -1,7 +1,7 @@
 .equ PIXEL_BUFF, 0xC8000000
 .equ CHAR_BUFF, 0xC9000000 
 .equ PS2_DATA, 0xFF200100
-//Linpei Duan, 260835863
+
 .global _start
 
 _start:
