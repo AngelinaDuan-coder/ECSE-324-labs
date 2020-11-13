@@ -1,4 +1,4 @@
-//Linpei Duan, 260835863
+
 n: .word 5
 array: .word 4,2,1,4,-1
 .global _start
